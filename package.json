@@ -1,0 +1,11 @@
+{
+  "name": "emojity",
+  "version": "1.0.0",
+  "description": "Creates emoji array from text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michał Witek",
+  "license": "Beerware"
+}
