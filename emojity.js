@@ -3,6 +3,7 @@
     Author: Michał Witek
     License: Beerware
  */
+'use strict';
 exports.emojity = {
  getEmojis (text){
     // Variables
