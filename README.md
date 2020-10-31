@@ -6,7 +6,13 @@
 ## Importing to your code:
 `const { emojity } = require("./emojity");`
 
-### Example usage:
+#### Generating an array:
+    const { emojity } = require('./emojity');
+    let EmojiArray = emojity.getEmojis('Emojity');
+#### **EmojiArray:**
+` ['🇪', '🇲', '🇴', '🇯', '🇮', '🇹', '🇾']`
+
+### Example application:
 - Creating emoji response to the right word using Discord.js
 
 ![Usage](https://i.ibb.co/LRZLVtq/obraz-2020-10-31-225613.png "Usage")
