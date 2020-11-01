@@ -1,5 +1,5 @@
 # Emojity
-#### Emojis is a module that allows you to quickly transform a word into emoji arrays
+#### Emojity is a module that allows you to quickly transform a word into emoji arrays
 
 ## Installation:
 `npm i  emojity`
