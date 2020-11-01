@@ -4,10 +4,10 @@
 ## Installation:
 `npm i  emojity`
 ## Importing to your code:
-`const { emojity } = require("./emojity");`
+`const { emojity } = require("emojity");`
 
 #### Generating an array:
-    const { emojity } = require('./emojity');
+    const { emojity } = require('emojity');
     let EmojiArray = emojity.getEmojis('Emojity');
 #### **EmojiArray:**
 ` ['🇪', '🇲', '🇴', '🇯', '🇮', '🇹', '🇾']`
