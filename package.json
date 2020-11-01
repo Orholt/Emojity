@@ -1,6 +1,6 @@
 {
   "name": "emojity",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Creates emoji array from text",
   "main": "emojity.js",
   "scripts": {
